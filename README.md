@@ -21,4 +21,5 @@ Each branch represents the module with the AngularJS Foundation application exer
 | Chapter  |      Ttitle                   |  Branch        |
 |----------|:-----------------------------:|---------------:|
 | 01       |   [Bootstrapping & Modules](doc/01 - Bootstrapping & Modules.md) | yangular_0.0.0 |
+| 02       |   [First Controller & service.md](doc/02 - First Controller & service.md.md) | yangular_0.0.1 |
 
