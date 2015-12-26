@@ -1,0 +1,3 @@
+JQLite.prototype = function anchorScroll() {
+
+}

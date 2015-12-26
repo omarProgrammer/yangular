@@ -1,0 +1,29 @@
+{
+  "name": "yangular",
+  "description": "search youtube video and search it with packet",
+  "main": "src/index.html",
+  "authors": [
+    "Omar BERRABEH"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "youtube",
+    "tuto",
+    "first",
+    "launch",
+    "exercice"
+  ],
+  "homepage": "https://github.com/omarProgrammer/yangular.git",
+  "moduleType": [],
+  "directory": "/src/assets/libs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src/assets/libs"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "Materialize": "materialize#~0.97.5"
+  }
+}

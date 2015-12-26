@@ -1,0 +1,45 @@
+::-webkit-scrollbar {
+    width: 5px;
+    background: #2196f3;
+}
+
+body {
+	//overflow: hidden;
+}
+
+
+#df_search {
+	height: 100%;
+	position: relative;
+
+}
+#df_search .container {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate3d(-50%,-50%,0);
+}
+
+#df_search h1 {
+	margin-top: 0;
+}
+
+#df_search h1 span {
+	background: #fff;
+	border-radius: 15%;
+	padding: 0 15px;
+	color: #2196f3;	
+}
+
+#df_search input {
+	border-color: #fff;
+}
+#df_search i {
+color: #2196f3;	
+}
+
+
+
+#df_result {
+	min-height: 100%;
+}

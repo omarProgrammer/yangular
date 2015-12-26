@@ -1,0 +1,9 @@
+.DS_Store
+.agignore
+node_modules
+/selenium
+/coverage
+/src/assets/libs
+.tmp/
+/dist
+/build
