@@ -14,3 +14,11 @@ Each branch represents the module with the AngularJS Foundation application exer
 3. `npm install`
 4. `bower install`
 5. `grunt install`
+
+
+## Chapters
+
+| Chapter  |      Ttitle                   |  Branch        |
+|----------|:-----------------------------:|---------------:|
+| 01       |   [Bootstrapping & Modules](doc/01 - Bootstrapping & Modules.md) | yangular_0.0.0 |
+
